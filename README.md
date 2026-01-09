@@ -1,4 +1,1 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d570fd05-609f-4289-b1e8-88340a4caaca" 
-       alt="Background_GitProfile_v1" />
-</p>
+<img width="1280" height="720" alt="Background_GitProfile_v1" src="https://github.com/user-attachments/assets/66a4f3ea-132e-47b8-9faa-2cdd38613bf7" />
