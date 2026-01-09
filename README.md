@@ -1,4 +1,4 @@
-## Bina Thapa
+![BT_GitProfile](https://github.com/user-attachments/assets/a7b24f71-b72d-4ff1-b329-5219bfe2e4b9)
 
 <!--
 **ThapaBina/thapabina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
